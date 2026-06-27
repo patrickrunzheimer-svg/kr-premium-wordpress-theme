@@ -1,0 +1,20 @@
+kr-premium-wordpress-theme/
+├── style.css
+├── functions.php
+├── header.php
+├── footer.php
+├── front-page.php
+├── index.php
+├── page.php
+├── single.php
+├── archive.php
+├── 404.php
+├── screenshot.png
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── inc/
+├── template-parts/
+├── templates/
+└── languages/
